@@ -1,0 +1,131 @@
+@font-face {
+  font-family: 'arial_light';
+  src: url('arial_light.ttf');
+}
+
+@font-face {
+	font-family: 'arial';
+	src: url('arial.ttf);
+}
+
+html {
+	background-color: #cdcdcd;
+	font-family: "arial";
+	padding-left: 22px;
+	letter-spacing: -2px;
+}
+
+h1 {
+	text-align: left;
+	font-size: 5em;
+	font-family: "arial_light";
+	display: inline;
+	position: relative;
+}
+
+h3 {
+	font-family: "arial_light";
+	font-size: 1.7em;
+	display: inline;
+	position: relative;
+	text-align: left;
+	left: -20px;
+	font-weight: 900;
+}
+
+nav {
+	font-size: 1.5em;
+	display: inline;
+	text-align: right;
+	padding-left: 350px;
+}
+
+nav ul {
+	display: inline;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+nav ul li {
+	border
+	display: inline;
+	font-weight: bolder;
+}
+
+nav ul li a {
+	background-color: #cdcdcd; 
+	color: #000;
+	margin-left: 25px;
+	margin-right: 25px;
+	text-decoration: none;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-ms-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+
+}
+
+nav ul li #active {
+	color: #111;
+}
+
+nav ul li a:hover {
+	text-shadow: 0 0 .5em #B5B5B5;
+	color: #F1F1F1;
+	text-decoration: none;
+}
+
+#box {
+	color: #000;
+	border-color: #000;
+	border-width: 3px;
+	border-style: solid;
+	display: inline-block;
+	padding: 10px 10px 10px 10px;
+	margin-left: 450px;
+	margin-bottom: 10px;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-ms-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+}
+
+#box:hover {
+	text-shadow: 0 0 .5em #8ad459;
+	color: #8ad459;
+	border-color: #8ad459;
+	text-decoration: none;
+}
+
+#content h2 {
+	border-color: #ACACAC;
+	border-width: 2px;
+	display: inherit;
+}
+
+#content ul {
+	position: relative;
+	left: 50px;
+	font-size: 2em;
+	font-weight: bolder;
+}
+
+#aboutme img {
+	position: relative;
+	float: left;
+	padding-right: 20px;
+	
+}
+
+#aboutmetext {
+	font-family: "Times New Roman", Times, serif;
+	letter-spacing: normal;
+}
+
+footer p {
+	font-family: "arial_light";
+	text-align: left;
+}
