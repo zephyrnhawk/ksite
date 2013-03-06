@@ -1,2 +1,1 @@
-Crontab Test 3/6/13 8:47am
-If it is past 10:36am on 3/6/13 and you see this message, then it worked!
+Just one more check, 12:36, should be updated at 12:40. And every 5 minutes after that.
