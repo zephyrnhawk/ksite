@@ -1,3 +1,2 @@
-Test Test
-Hello!
-3/6/13
+Crontab Test 3/6/13 8:20am
+If it is past 8:50am on 3/6/13 and you see this message, then it worked!
