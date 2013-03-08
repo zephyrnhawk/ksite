@@ -1,1 +1,2 @@
 Test of date and output of git pull to current.html
+Testing Output
