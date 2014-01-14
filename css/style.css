@@ -20,6 +20,10 @@ html {
 	letter-spacing: -0px;
 }
 
+a img {
+	border:0;
+}
+
 h1 {
 	text-align: left;
 	font-size: 3.9em;
