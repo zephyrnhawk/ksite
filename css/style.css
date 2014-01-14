@@ -122,6 +122,11 @@ nav ul li a:hover {
 	font-weight: bolder;
 }
 
+#links {
+	color: #000000;
+	
+}
+
 #aboutme img {
 	position: relative;
 	float: left;
