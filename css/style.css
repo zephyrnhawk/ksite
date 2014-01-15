@@ -15,7 +15,7 @@
 
 html {
 	background-color: #0d0d0d;
-	font-family: "arial";
+	font-family: "arial_light";
 	padding-left: 22px;
 	letter-spacing: -0px;
 	color: #FFFFFF
@@ -60,7 +60,6 @@ nav ul {
 nav ul li {
 	text-align: center;
 	display: inline;
-	font-weight: bolder;
 }
 
 nav ul li a {
