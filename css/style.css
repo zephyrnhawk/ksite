@@ -113,6 +113,7 @@ nav ul li a:hover {
 	border-color: #ACACAC;
 	border-width: 2px;
 	display: inherit;
+	font-size: 1em;
 }
 
 #content ul {
