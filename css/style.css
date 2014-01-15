@@ -30,6 +30,7 @@ h1 {
 	font-size: 3.9em;
 	font-family: "arial_light";
 	display: inline;
+	color: #ac3501;
 	position: relative;
 }
 
@@ -112,7 +113,6 @@ nav ul li a:hover {
 #content h2 {
 	border-color: #ACACAC;
 	border-width: 2px;
-	display: inherit;
 	font-size: 1em;
 }
 
