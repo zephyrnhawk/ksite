@@ -121,8 +121,14 @@ nav ul li a:hover {
 #content ul {
 	position: relative;
 	left: 50px;
++<<<<<<< HEAD
 	font-size: 1.0em;
 	font-weight: 400;
++=======
++	font-size: 1.1em;
++	font-weight: bolder;
++	list-style-type: none;
++>>>>>>> 1ad7e7cc7986420b5ed2eae9b523db1a2fad43b0
 }
 
 #contact {
