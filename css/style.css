@@ -123,6 +123,7 @@ nav ul li a:hover {
 	left: 50px;
 	font-size: 1.1em;
 	font-weight: bolder;
+	list-style-type: none;
 }
 
 #contact {
