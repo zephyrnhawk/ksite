@@ -18,7 +18,7 @@ html {
 	font-family: "arial_light";
 	padding-left: 22px;
 	letter-spacing: -0px;
-	color: #FFFFFF
+	color: #e9e7dd
 }
 
 a img {
@@ -42,7 +42,7 @@ h3 {
 	text-align: left;
 	left: -20px;
 	font-weight: 900;
-	color: #505050;
+	color: #86857f;
 }
 
 nav {
@@ -160,9 +160,9 @@ footer p {
 	text-align: left;
 	font-size: 0.7em;
 	display: inline;
-	color: #FFFFFF;
+	color: #595856;
 }
 
 footer a {
-	color: #FFFFFF;
+	color: #595856;
 }
