@@ -9,7 +9,7 @@
 }
 
 #wrap {
-	width: 60%;
+	width: 70%;
 	margin: 0 auto;
 }
 
@@ -121,8 +121,8 @@ nav ul li a:hover {
 #content ul {
 	position: relative;
 	left: 50px;
-	font-size: 1.1em;
-	font-weight: bolder;
+	font-size: 1.0em;
+	font-weight: 400;
 }
 
 #contact {
@@ -149,6 +149,8 @@ nav ul li a:hover {
 }
 
 footer p {
+	position: relative;
 	font-family: "arial_light";
 	text-align: left;
+	font-size: 0.7em;
 }
