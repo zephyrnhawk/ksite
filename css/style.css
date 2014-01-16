@@ -8,6 +8,13 @@
 	src: url('arial.ttf');
 }
 
+@media only screen and (max-device-width: 550px) {
+	#wrap {
+	width: 100%;
+	margin: 0 auto;
+	}
+}
+
 #wrap {
 	width: 70%;
 	margin: 0 auto;
@@ -160,10 +167,4 @@ footer p {
 	text-align: left;
 	font-size: 0.7em;
 	display: inline;
-}
-@media only screen and (max-device-width: 550px) {
-	#wrap {
-	width: 100%;
-	margin: 0 auto;
-	}
 }
