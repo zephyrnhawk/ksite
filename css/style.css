@@ -160,4 +160,9 @@ footer p {
 	text-align: left;
 	font-size: 0.7em;
 	display: inline;
+	color: #FFFFFF;
+}
+
+footer a {
+	color: #FFFFFF;
 }
