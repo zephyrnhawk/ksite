@@ -8,7 +8,7 @@
 	src: url('arial.ttf');
 }
 
-@media only screen and (max-device-width: 550px) {
+@media only screen and (max-width: 550px) {
 	#wrap {
 	width: 100%;
 	margin: 0 auto;
