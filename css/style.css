@@ -148,6 +148,19 @@ nav ul li a:hover {
 	
 }
 
+.blog{
+	
+	target-name: new;
+	target-new: tab;
+}
+
+.resume{
+	
+	target-name: new;
+	target-new: tab;
+
+}
+
 #aboutmetext {
 	font-family: "arial_light", Times, serif;
 	letter-spacing: normal;
