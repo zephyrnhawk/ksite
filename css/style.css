@@ -159,4 +159,6 @@ footer p {
 	font-family: "arial_light";
 	text-align: left;
 	font-size: 0.7em;
+	display: inline;
+        left: -20px;
 }
